@@ -1,7 +1,7 @@
 const hello = () => {
     return (
         <>
-        <h1>hellow hellow</h1>
+        <h1>hellow hellow howdy</h1>
         </>
       );
 }
